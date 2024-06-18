@@ -1,2 +1,3 @@
-# Assignment-26
-Switch case
+# Practice Mode
+
+## Switch case
